@@ -1,0 +1,10 @@
+.centralizar {
+    text-align: center;
+}
+li:hover {
+background-color: blue;
+}
+li:active {
+    color: aqua;
+}
+list-style: none;
